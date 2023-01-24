@@ -1,0 +1,13 @@
+{
+    "bot_token": "XXXXXXXXXXXXXX",
+    "guild_id": "XXXXXXXXXXXXXX",
+    "staff_role": "XXXXXXXXXXXXXX",
+
+    "mysql": {
+        "host": "XXXXXXXXXXXXXX",
+        "post": "XXXXXXXXXXXXXX",
+        "username": "XXXXXXXXXXXXXX",
+        "password": "XXXXXXXXXXXXXX",
+        "database": "XXXXXXXXXXXXXX",
+    }
+}
